@@ -1,4 +1,4 @@
 <x-layout>
-    <h1>This is home</h1>
+    <h1>{{$greeting}}. This is home</h1>
 
 </x-layout>
